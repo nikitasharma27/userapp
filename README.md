@@ -14,6 +14,7 @@ Follow these steps to set up the project and install the required dependencies:
 Create a new React project using create-react-app or your preferred method.
 Navigate to the project directory in your terminal.
 Install Axios by running npm install axios or yarn add axios.
+**Axios is used as it has built-in support for handling errors and intercepting responses. It makes it easier to handle common error scenarios like network errors or invalid responses. 
 
 #Component Structure
 The User Form application consists of the following components:

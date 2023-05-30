@@ -22,9 +22,9 @@ const UserList = () => {
             <table>
                 <thead>
                     <tr>
-                        <th>Name</th>
+                        <th>First Name</th>
+                        <th>Last Name</th>
                         <th>Email</th>
-                        <th>Password</th>
                     </tr>
                 </thead>
                 <tbody>
